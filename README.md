@@ -1,5 +1,7 @@
 # Graphs: Beginner to Pro Matplotlib
 
+![Graphs](https://www.eurokidsindia.com/blog/creative-ways-to-teach-graphs-and-charts-to-preschoolers.php)
+
 This repository contains step-by-step Jupyter Notebooks designed to take you from a Matplotlib beginner to an advanced user.
 
 ## 🚀 Getting Started
