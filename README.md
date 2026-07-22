@@ -1,7 +1,5 @@
 # Graphs: Beginner to Pro Matplotlib
 
-![Graphs](./cover.png)
-
 This repository contains step-by-step Jupyter Notebooks designed to take you from a Matplotlib beginner to an advanced user.
 
 ## 🚀 Getting Started
